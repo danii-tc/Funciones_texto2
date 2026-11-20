@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="estilos.css" type="text/css">
     <title>Document</title>
 </head>
 <body>

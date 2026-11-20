@@ -1,0 +1,15 @@
+html{
+    background-color: darkseagreen;
+}
+input{
+    background-color: rgb(104, 171, 144);
+    border: rgb(34, 70, 47) dotted;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(104, 171, 144);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    border: rgb(34, 70, 47) double;
+}

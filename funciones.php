@@ -28,6 +28,6 @@
         return substr($i, 0, 2);
     }
     function generar_usuario($n, $i, $f) {
-        return convertir_minusculas(limpiar_nombre($n)). obtener_año($f). obtener_institucion($i);  
+        return convertir_minusculas(limpiar_nombre($n)). obtener_institucion($i). obtener_año($f);  
     }
 ?>
